@@ -170,9 +170,6 @@ The application includes error handling for:
 ✅ Comprehensive documentation  
 ✅ Modular code structure  
 
-## 👨‍💻 Author
-
-[Your Name]
 
 ## 📄 License
 
